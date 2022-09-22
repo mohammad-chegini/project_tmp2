@@ -1,6 +1,8 @@
 import pandas
+import seaborn
 
 class sianat:
-    pass
+    def __init__(self):
+        pass
 
 s=sianat()
